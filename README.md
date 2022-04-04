@@ -1,2 +1,2 @@
 # tailwind_practice
-Converting a React app from regular CSS to Tailwind
+Converting Brian Holt's Adopt Me React app from regular CSS to Tailwind CSS, as part of the Frontend Masters Intermediate React curriculum.
